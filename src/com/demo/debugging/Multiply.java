@@ -1,11 +1,10 @@
 package com.demo.debugging;
 
-public class Subtraction {
+public class Multiply {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("Substract");
-System.out.println("Substract");
+		System.out.println("Multiply");
 	}
 
 }
